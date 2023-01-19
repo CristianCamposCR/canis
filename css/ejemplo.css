@@ -1,0 +1,21 @@
+header{/* elementos primer nivel*/
+    background-color: rgb(79, 190, 190) !important;
+    width: 100% !important;
+    padding: 5px !important;
+}
+
+.header{/*clases segundo nivel*/
+    background-color: blueviolet;
+    width: 100%;
+    padding: 5px;
+
+}
+
+#header{/*por id identifiadores tercer nivel*/
+    background-color: rgb(226, 43, 180) !important;
+    color: white;
+    width: 100%;
+    padding: 5px;
+}
+
+/*cuarto nivel estilos en linea*/
